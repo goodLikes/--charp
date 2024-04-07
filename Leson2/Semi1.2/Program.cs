@@ -25,8 +25,13 @@ if (num1 > 99)
 }
 
 else
+   if (num1 < 99)
 {
-  Console.WriteLine("Число меньше 99");
+  Console.WriteLine("Число меньше 99 ");
+}
+if (num1 > 1000)
+{
   Console.WriteLine("Число больше 999");
 }
+
 
