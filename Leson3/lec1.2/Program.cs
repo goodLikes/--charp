@@ -1,4 +1,4 @@
-void ZeroEvenElements(int[] arr)
+﻿void ZeroEvenElements(int[] arr)
 {
   for (int i = 0; i < arr.Length; i++)
   {

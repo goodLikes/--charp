@@ -42,7 +42,7 @@ void Square(int n)
 
   {
     Console.Write($"{i * i} ");
-    i = i + 1;
+    i++;
   }
   Console.WriteLine();
 }
