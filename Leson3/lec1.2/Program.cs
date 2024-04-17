@@ -1,4 +1,4 @@
-﻿void ZeroEvenElements(int[] arr)
+void ZeroEvenElements(int[] arr)
 {
   for (int i = 0; i < arr.Length; i++)
   {
@@ -11,9 +11,9 @@
 
 void PrintArray(int[] arr)
 {
-  foreach (int e in arr)
+  foreach (int A in arr)
   {
-    System.Console.Write($"{e}");
+    Console.Write($"{A} ");
   }
 }
 
